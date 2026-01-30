@@ -1,78 +1,80 @@
-<!-- Animated Banner -->
+<!-- RPG Banner -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Bienvenue%20sur%20mon%20GitHub&fontSize=38&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<!-- Typing Animation -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&center=true&vCenter=true&width=600&lines=Développeur+Passionné;UI%2FUX+%26+Clean+Code;Créateur+de+projets+modernes;Toujours+en+évolution+🚀" />
-</p>
-
----
-
-## 🧩 Qui suis-je ?
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V5Z2Y4b2J1dWw1b2R6c3F1aG5rYjR2YzN0Y2F3eW5oZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="280" />
-</p>
-
-* 💡 J’aime concevoir des expériences **visuelles & fluides**
-* 🎨 Sensible au **design, animations et micro-interactions**
-* ⚙️ Du concept → au déploiement
-* ☕ Café + musique = productivité maximale
-
----
-
-## ⚡ Stack animée
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,docker,git,figma&perline=7" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:312E81&height=200&section=header&text=⚔️%20DEV%20RPG%20PROFILE%20⚔️&fontSize=36&fontColor=E0E7FF&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TonUsername&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&center=true&vCenter=true&width=700&lines=Classe%3A+Développeur+Full+Stack;Spécialité%3A+UI%2FUX+%26+Performance;Quête+actuelle%3A+Build+Awesome+Projects;Niveau+en+progression+⬆️" />
 </p>
 
 ---
 
-## 🌀 Workflow visuel
+## 🧙‍♂️ Fiche du personnage
 
-```mermaid
-flowchart TD
-    A[💡 Idée] -->|Wireframe| B[🎨 Design]
-    B -->|UI Motion| C[⚛️ Frontend]
-    C -->|API| D[🧠 Backend]
-    D --> E[🧪 Tests]
-    E --> F[🚀 Déploiement]
+```yaml
+Nom: Yanis
+Classe: Développeur Full Stack
+Alignement: Chaotique Bon 😄
+Niveau: ███████░░░ 72%
+Expérience: En constante évolution
+Arme favorite: Clean Code ⚔️
+Compagnon: ☕ Café
 ```
 
 ---
 
-## 📊 Activité GitHub animée
+## 🗺️ Carte des compétences
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TonUsername&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=TonUsername&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TonUsername&theme=tokyo-night&area=true" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,docker,git,figma&theme=dark&perline=6" />
 </p>
 
 ---
 
-## 🚀 Projets en mouvement
+## 🧬 Arbre de progression
+
+```mermaid
+flowchart TD
+    A[Novice 👶] --> B[Apprenti 🧑‍🎓]
+    B --> C[Développeur ⚔️]
+    C --> D[Expert 🧠]
+    D --> E[Architecte 🏰]
+```
+
+---
+
+## 🧪 Statistiques du héros
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TonUsername&repo=portfolio&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TonUsername&repo=project-app&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TonUsername&show_icons=true&theme=tokyonight&title_color=E0E7FF&icon_color=38BDF8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TonUsername&theme=tokyonight" />
 </p>
 
 ---
 
-## 🐍 Animation des contributions
+## 📜 Quêtes principales
+
+| 🗡️ Quête | 📖 Description          | 🎁 Récompense   |
+| --------- | ----------------------- | --------------- |
+| Portfolio | Créer un site personnel | XP + Design     |
+| App Web   | Application interactive | XP + Logic      |
+| API       | Backend scalable        | XP + Robustesse |
+
+---
+
+## 🏆 Hauts faits
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TonUsername&theme=onestar&no-frame=true" />
+</p>
+
+---
+
+## 🐍 Invocation du serpent ancien
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/TonUsername/TonUsername/output/github-contribution-grid-snake.svg" />
@@ -80,16 +82,15 @@ flowchart TD
 
 ---
 
-## 🌐 Connexions
+## 🌌 Portails sociaux
 
 <p align="center">
-  <a href="https://linkedin.com/in/tonprofil"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/tonprofil"><img src="https://img.shields.io/badge/Twitter-22D3EE?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:tonmail@email.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/tonprofil"><img src="https://img.shields.io/badge/LinkedIn-Guilde-312E81?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/tonprofil"><img src="https://img.shields.io/badge/Twitter-Taverne-0EA5E9?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:312E81,100:0F172A&height=120&section=footer&text=✨%20Fin%20de%20la%20quête...%20pour%20l'instant%20✨&fontSize=18&fontColor=E0E7FF" />
 </p>
