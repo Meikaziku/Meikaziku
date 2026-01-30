@@ -69,7 +69,7 @@ flowchart TD
 ## 🏆 Hauts faits
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TonUsername&theme=onestar&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?Meikaziku=Meikaziku&theme=onestar&no-frame=true" />
 </p>
 
 ---
@@ -77,7 +77,7 @@ flowchart TD
 ## 🐍 Invocation du serpent ancien
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TonUsername/TonUsername/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Meikaziku/Meikaziku/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
