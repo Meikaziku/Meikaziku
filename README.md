@@ -1,117 +1,74 @@
-<!-- <h1>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=FFFFFF&background=301B5D00&vCenter=true&width=435&lines=Hi+👋+I'm+Aakash!">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=000000&background=301B5D00&vCenter=true&width=435&lines=Hi+👋+I'm+Aakash!">
-    <img alt="IMAGE" src="http://LIGHT_IMAGE_URL.png">
-  </picture>
-</h1> -->
-
-<h1 align="stsrt">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2300&pause=900&color=FF6F3C&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Aakash!" alt="Typing SVG" />
-</h1>
-
-
-![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
-
-
-## 💫 About Me:
-- 🔭 I’m currently working as a **Flutter Developer.**
-- 🌱 I’m currently learning **NodeJS and MongoDB.**
-- 💬 Ask me about **Flutter and Tech Stuff.**
-- 📫 How to reach me **Check my Social links below.**
-- ⚡ Fun fact **Coding is fun!**
-
-
-## 🌐 Socials:
+[![Pixel Art Wallpaper Desktop Gif](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896)
+]()
+<h1 align="center">Hi 👋, I'm Abhishek Ganvir!</h1>
+<h3 align="center">A Passionate Full Stack Developer from India
+    </h3>
 <div align="left">
-  <a href="https://linkedin.com/in/aakash569" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-    
-  <a href="https://twitter.com/aakash569" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
-    
-  <a href="https://instagram.com/ig_aakash569" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
-    
-  <a href="https://facebook.com/aakash569" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>     
-   
-   <a href="https://youtube.com/@defconOP" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /></a>
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
   
-   <a href="https://aakashrajbanshi58@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
-  
-   <a href="https://discord.com/channels/@notyourdefcon" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
-  
-   <a href="https://gitlab.com/aakashx58" target="_blank"> 
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/gitlab-dark.svg" width="52" height="40" alt="gitlab logo"  /></a>
-  
-   <a href="https://stackoverflow.com/users/23926080/aakash-rajbanshi" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  /></a>
-  
-   <a href="https://www.reddit.com/user/aakash569/" target="_blank">
-  <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Reddit.png"  height="40" alt="reddit logo"  /></a>
-  
-   <a href="https://leetcode.com/u/aakashrajbanshi58/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png"  height="40" alt="leetcode logo"  /></a>
-  
-   <a href="https://medium.com/@aakash569" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  /></a>
-  
-   <a href="https://pub.dev/publishers/aakashrajbanshi.com.np/packages" target="_blank">
-  <img src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" height="40" alt="pub.dev logo"  /></a>
-  
-   <a href="https://linktr.ee/aakash569" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  /></a>
-  
-  <a href="https://zaap.bio/aakash569" target="_blank" rel="noreferrer">
-  <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/60e537346fa87d00016b77cc/0x0.png" width="40" />
-  </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekGanvir&label=Profile%20views&color=0e75b6&style=flat" alt="AbhishekGanvir" /> </p>
+
+
+
+* 🎓  I'm currently pursuing a B.Tech in CSE
+* ✉️  You can contact me at [abhishekganvirr@gmail.com](mailto:abhishekganvirr@gmail.com)
+* ✨️ My best work till now  [IntervueAI](https://intervueai-io.vercel.app)
+* 🚀 Interested in future tech
+
+ <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
+### Skills
+<p align="left">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://img.icons8.com/?size=96&id=21278&format=png" width="50" height="47" alt="CSS" />
+  <img src="https://img.icons8.com/?size=128&id=ZMc42tPbG32H&format=png" width="45" height="45"  />
+   <img src="https://img.icons8.com/?size=96&id=CIAZz2CYc6Kc&format=png" width="50" height="48"  />
+   <img src="https://img.icons8.com/?size=96&id=dJjTWMogzFzg&format=png" width="50" height="48"  />
+   <img src="https://img.icons8.com/?size=128&id=Nkym0Ujb8VGI&format=png" width="50" height="48"  />
+<img src="https://img.icons8.com/?size=128&id=2ZOaTclOqD4q&format=png" width="50" height="48"  />
+   <img src="https://img.icons8.com/?size=96&id=hsPbhkOH4FMe&format=png" width="50" height="48"  />
+   <img src="https://img.icons8.com/?size=128&id=lVitPDXqQKP8&format=png" width="50" height="48"  />
+   <img src="https://img.icons8.com/?size=160&id=tBBf3P8HL0vR&format=png" width="50" height="48"  />
+   <img src="https://img.icons8.com/?size=160&id=Pv4IGT0TSpt8&format=png" width="50" height="48"  />
+   <img src="https://img.icons8.com/?size=96&id=rHpveptSuwDz&format=png" width="50" height="48"  />
+   <img src="https://img.icons8.com/?size=96&id=8verEw3iUvx0&format=png" width="50" height="48"  />
 
-## 💻 Tech Stack:
+  
+<img src="https://img.icons8.com/?size=96&id=22813&format=png" width="50" height="48"  />
+<img
+src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png" width="48" height="42" />
+
+</p> 
+  
 <div align="left">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=c,cpp,dart,flutter,firebase,supabase,fastapi,postman,tensorflow,photoshop,xd,figma,wordpress,vscode,androidstudio,git,github,gitlab,githubactions,cloudflare,vercel,windows,apple,linux,ubuntu&theme=dark" />
-<!--     <img width="50" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png"/> -->
-  </a> 
-</div> 
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+<h3 align="left">Connect with me </h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/abhishekganvir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek ganvir" height="26" width="35" /></a>
+<a href="https://instagram.com/alright.abhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alright.abhi" height="30" width="40" /></a>
+<a href="https://discord.com/users/1240908554534260872" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="abhishekganvir" height="30" width="40" /></a>
+</p>
 
-
-
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakashx58&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashx58&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  />
+ <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
 
-<!--## 🐍 GitHub Contributions:
-![snake gif](https://github.com/aakashx58/aakashx58/blob/output/github-contribution-grid-snake.svg)-->
-<!--<div align="center">
- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Bishalmoktan/Bishalmoktan/output/github-contribution-grid-snake.svg" />
-</div>-->
 
-
-<!--## 📅 Isometric commit calendar:
-  <td  align="center">
-        <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
-        <details><summary>Half year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>-->
-
----
-[![](https://visitcount.itsvg.in/api?id=aakashx58&icon=0&color=1)](https://visitcount.itsvg.in)
-
-
-<div align="center">
-  Show some ❤️ by starring some of the repositories!
+<!---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekganvir&layout=donut-vertical&show_icons=true&theme=radical)
+<div align="left">
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
-
-
-<div align="center">
-  <a href="https://github.com/aakashx58?tab=repositories" title="Show Repositories">... See More</a>
+  
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekganvir&show_icons=true&theme=radical)
+<div align="left">
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
