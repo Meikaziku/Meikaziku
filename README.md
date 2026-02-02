@@ -1,7 +1,7 @@
 [![Pixel Art Wallpaper Desktop Gif](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896)
 ]()
-<h1 align="center">Hi 👋, I'm Abhishek Ganvir!</h1>
-<h3 align="center">A Passionate Full Stack Developer from India
+<h1 align="center">Salut 👋, moi c'est Yanis!</h1>
+<h3 align="center">Un jeune développeur passionné 
     </h3>
 <div align="left">
     <div align="left">
@@ -12,10 +12,10 @@
 
 
 
-* 🎓  I'm currently pursuing a B.Tech in CSE
-* ✉️  You can contact me at [abhishekganvirr@gmail.com](mailto:abhishekganvirr@gmail.com)
-* ✨️ My best work till now  [IntervueAI](https://intervueai-io.vercel.app)
-* 🚀 Interested in future tech
+* 🎓  je suis actuellement en formation DWWM Bac+2
+* ✉️  Tu peux me contacter sur [yanis.marouani13@gmail.com](mailto:yanis.marouani13@gmail.com)
+* ✨️  Mon meilleur projet  [Luxury Services](https://yanis-luxury.pro4.garage404.com/)
+* 🚀  En recherche de stage !
 
  <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
