@@ -1,109 +1,109 @@
-# 👋 Salut, moi c’est **<TON_NOM>**
+# 👋 Salut, moi c'est <Ton Nom>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Développeur+Passionné;Open+Source+Enthusiast;Toujours+en+train+d'apprendre" alt="Typing SVG" />
-</p>
+> *Une courte phrase qui résume qui tu es ou ce que tu aimes construire.*
 
 ---
 
-## 🚀 À propos de moi
+## 🧠 À propos de moi
 
-* 💼 Rôle : **<Ton rôle (ex: Full‑Stack Developer)>**
-* 🌍 Localisation : **<Pays / Ville>**
-* 🧠 Intérêts : **<Tech, design, IA, etc.>**
-* 🎯 Objectif actuel : **<Ce sur quoi tu travailles>**
-
----
-
-## 🧩 Stack & Outils
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,git,github,docker&perline=8" />
-</p>
-
-> ✏️ Modifie la liste selon ton stack (voir [https://skillicons.dev](https://skillicons.dev))
+* 💻 Développeur·se **<stack principal>**
+* 🌱 J'apprends actuellement **<technos / sujets>**
+* 🎯 Objectif actuel : **<objectif clair>**
+* ⚡ Fun fact : **<quelque chose d'humain>**
 
 ---
 
-## 📊 Diagramme – Mon workflow de dev
+## 🛠️ Stack technique
+
+### Langages & Outils
 
 ```mermaid
 flowchart LR
-    A[Idée 💡] --> B[Design 🎨]
-    B --> C[Développement 💻]
-    C --> D[Test 🧪]
-    D --> E[Déploiement 🚀]
-    E --> F[Feedback 🔁]
-    F --> C
+    A[Langages] --> B(JavaScript)
+    A --> C(Python)
+    A --> D(TypeScript)
+
+    E[Frameworks] --> F(React)
+    E --> G(Node.js)
+    E --> H(Django)
+
+    I[Outils] --> J(Git)
+    I --> K(Docker)
+    I --> L(GitHub Actions)
 ```
 
-> ✅ Les diagrammes Mermaid sont supportés nativement par GitHub
+---
+
+## 📊 Ce que je fais le plus
+
+```mermaid
+pie title Répartition de mon temps de dev
+    "Backend" : 40
+    "Frontend" : 30
+    "DevOps" : 20
+    "Autres" : 10
+```
 
 ---
 
-## 📈 Statistiques GitHub (auto‑animées)
+## 🚀 Projets mis en avant
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=transparent" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TON_USERNAME&theme=github-compact" />
-</p>
+| Projet          | Description                      | Tech         |
+| --------------- | -------------------------------- | ------------ |
+| 🔗 **Projet A** | Description courte et impactante | React · Node |
+| 🔗 **Projet B** | Problème résolu / valeur ajoutée | Python · API |
+| 🔗 **Projet C** | Ce que tu as appris              | Docker · CI  |
 
 ---
 
-## 🧠 Architecture type de projet
+## 🧩 Workflow de développement
 
 ```mermaid
 sequenceDiagram
-    participant U as Utilisateur
-    participant F as Frontend
-    participant B as Backend
-    participant D as Database
-
-    U->>F: Interaction UI
-    F->>B: API Request
-    B->>D: Query
-    D-->>B: Data
-    B-->>F: Response
-    F-->>U: UI Update
+    participant Dev as Développeur
+    participant Git as GitHub
+    participant CI as CI/CD
+    Dev->>Git: Push du code
+    Git->>CI: Lancement des tests
+    CI-->>Git: Tests OK
+    Git-->>Dev: Merge possible
 ```
 
 ---
 
-## ✨ Projets mis en avant
+## 📈 Statistiques GitHub
 
-| Projet               | Description                   | Tech            |
-| -------------------- | ----------------------------- | --------------- |
-| 🔥 **Nom du projet** | Courte description impactante | React, Node     |
-| ⚡ **Nom du projet**  | Ce que ça résout              | Python, FastAPI |
+> ⚠️ Remplace `<username>` par ton pseudo GitHub
 
----
+```md
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&theme=tokyonight)
 
-## 🌐 Me contacter
-
-<p align="center">
-  <a href="https://linkedin.com/in/TON_PROFIL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/TON_PROFIL"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:tonmail@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&layout=compact&theme=tokyonight)
+```
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=120&section=footer" />
-</p>
+## 🌍 Me contacter
+
+* 💼 LinkedIn : <lien>
+* 🐦 Twitter / X : <lien>
+* ✉️ Email : <email>
+* 🌐 Portfolio : <site>
 
 ---
 
-### 🛠️ Conseils
+## 🧪 En ce moment
 
-* Garde le README **court mais vivant**
-* Évite de surcharger avec trop de stats
-* Mets à jour régulièrement tes projets
+```mermaid
+gantt
+    title Roadmap personnelle
+    dateFormat  YYYY-MM-DD
+    section Apprentissage
+    Nouvelle techno        :a1, 2026-01-01, 30d
+    section Projets
+    Projet personnel       :a2, 2026-01-10, 45d
+```
 
 ---
 
-💡 *Tu peux forker ce README et l’adapter à ton style personnel.*
+⭐ *N'hésite pas à laisser une étoile sur les projets que tu aimes !*
