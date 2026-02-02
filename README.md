@@ -3,12 +3,7 @@
 <h1 align="center">Salut 👋, moi c'est Yanis!</h1>
 <h3 align="center">Un jeune développeur passionné 
     </h3>
-<div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekGanvir&label=Profile%20views&color=0e75b6&style=flat" alt="AbhishekGanvir" /> </p>
+
 
 
 
@@ -31,9 +26,6 @@
 <a href="https://discord.com/users/1240908554534260872" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="abhishekganvir" height="30" width="40" /></a>
 </p>
 
- <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
 
 
 
